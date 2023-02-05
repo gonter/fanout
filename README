@@ -1,5 +1,11 @@
-Fanout is meant to create a simple pubsub server to handle sending messages and
-receiving messages on different channels.
+Forked from https://github.com/travisghansen/fanout.
+Used for things like SparkleShare ([1], [2]).
+
+* [1] https://github.com/hbons/SparkleShare/
+* [2] https://github.com/hbons/sparkleshare-git-hook/blob/master/post-update
+
+Fanout is meant to create a simple pubsub server to handle sending
+messages and receiving messages on different channels.
 
 Protocol:
 
