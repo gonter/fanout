@@ -1,4 +1,4 @@
-Fanout is meant to creat a simple pubsub server to handle sending messages and
+Fanout is meant to create a simple pubsub server to handle sending messages and
 receiving messages on different channels.
 
 Protocol:
